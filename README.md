@@ -1,16 +1,15 @@
 # 视频高光提取 API 文档
-git config --global user.name "zlcggb"
-git config --global user.email kundricklesley@gmail.com
 ## 项目概述
 
 该项目是一个基于FastAPI开发的视频高光提取服务，能够自动分析视频并提取精彩片段和关键帧。系统会返回指定数量的高光视频片段和九宫格图片，可用于社交媒体分享、体育赛事回放等场景。
+
 
 ## 部署信息
 
 API已成功部署到服务器，可通过以下地址访问：
 
-- API地址：`https://fastapi.unilumin-gtm.xyz`
-- API前端界面：`https://kartcam.netlify.app/`
+- API地址：https://fastapi.unilumin-gtm.xyz
+- API前端界面：https://kartcam.netlify.app/
 
 ## API调用方式
 
